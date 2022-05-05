@@ -1,0 +1,22 @@
+{
+  "name": "com.maellacour.simpleitk",
+  "version": "0.0.0",
+  "displayName": "Simple ITK",
+  "description": "Unity package for Simple ITK, an open-source multi-dimensional image analysis library.",
+  "unity": "2021.1",
+  "unityRelease": "0f1",
+  "dependencies": {},
+  "keywords": [
+    "itk",
+    "image",
+    "analysis",
+    "nifti"
+  ],
+  "license": "MPL-2.0",
+  "licensesUrl": "https://mozilla.org/MPL/2.0/",
+  "author": {
+    "name": "Mael Lacour",
+    "email": "public.dev@maellacour.com",
+    "url": "https://maellacour.com"
+  }
+}
